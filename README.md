@@ -24,6 +24,8 @@ that the article uses as dependent variables in the analysis.
 More information appears in the method section of the article by Hansen and Lund-Sørensen.
 The article has not yet been published and this description will be updated with a link to the article when it is published.
 
+Python version 3.8.8 (64-bit)
+
 **Data availability**
 Unfortunately, it is not possible to access the data on which the two notebooks are based.
 Therefore, it is not possible to reproduce our results. However, we provide these notebooks to be transparent with our approach.
